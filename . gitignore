@@ -1,0 +1,6 @@
+aegis_scan.log
+aegis_downloads/
+bloom_malware.bin
+exact_malware.db
+__pycache__/
+*.pyc
